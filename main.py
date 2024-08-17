@@ -1,3 +1,3 @@
 nombre = "david"
 
-print(nombre)
+print("hola", nombre)
